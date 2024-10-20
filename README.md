@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello there!
+I am Koen, a student, videographer, photographer, drone pilot, video/photo editor, and a computer guy who cannot really code. More info soon to come.
 
 <!--
 **KoenM9264/KoenM9264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
