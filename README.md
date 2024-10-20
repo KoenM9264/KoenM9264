@@ -1,5 +1,5 @@
 ## Hello there!
-I am Koen, a student, videographer, photographer, drone pilot, video/photo editor, and a computer guy who cannot really code. More info soon to come.
+I am Koen, a student, videographer, photographer, drone pilot, video/photo editor, and a computer guy who cannot really code. I have a few websites, though not a main one yet, thoguh that is soon to come, with many other things...
 
 <!--
 **KoenM9264/KoenM9264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
